@@ -1,7 +1,8 @@
 # hackintosh-3600X+b450Mortar-max 
 
 自己弄了黑苹果的EFI,希望能帮到想要组黑苹果的人.EFI基于OC_Gen_X定制,添加了inter无线网卡的驱动,OC图形化引导,**其他功能的请自行参考进行修改**。  
-## 修改完后请前往**https://opencore.slowgeek.com/** 查看config文件是否配置正确。  
+## 修改完后请前往**https://opencore.slowgeek.com/** 查看config文件是否配置正确。理论上支持同主板二代三代AMDcpu。  
+
 **显卡免驱，但硬件加速没法使用，正在修改中**  
 ---
 **Mac版本：bigsur 11.4**  
