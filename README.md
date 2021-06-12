@@ -27,7 +27,10 @@
 * 关闭bios里面的串行端口即可支持睡眠唤醒
 ## 注意
 **登陆Apple ID前请先使用Hackintool等工具重新生成序列号等信息，避免与他人重复**
-## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/2b6c3a397269e297c2ca91a57ba74cda68c7a041/Mac%20os.png)
+## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/2b6c3a397269e297c2ca91a57ba74cda68c7a041/Mac%20os.png). 
+## 联系方式
+* [telegram](https://t.me/DialectSudr)
+* [QQ](http://wpa.qq.com/msgrd?v=3&uin=1208194001&site=qq&menu=yes)
 ## 致谢
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
 * [黑果小兵的部落阁](https://blog.daliansky.net)
