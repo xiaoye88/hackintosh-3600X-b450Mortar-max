@@ -29,3 +29,5 @@
 **登陆Apple ID前请先使用Hackintool等工具重新生成序列号等信息，避免与他人重复**
 ## 致谢
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
+* [黑果小兵的部落阁](https://blog.daliansky.net)
+* [OS_gen_X](https://github.com/Pavo-IM/OC-Gen-X)
