@@ -5,7 +5,8 @@
 **显卡免驱，但硬件加速没法使用，正在修改中**。  
 * Mac版本：bigsur 11.4
 * opencore版本：0.7.0 
----
+---  
+# 如果可以请为我点个星星
 ## 配置清单
 **主板** | B450Mortar Max
 ------------ | -------------
@@ -26,4 +27,5 @@
 * 关闭bios里面的串行端口即可支持睡眠唤醒
 ## 注意
 **登陆Apple ID前请先使用Hackintool等工具重新生成序列号等信息，避免与他人重复**
-# 如果可以请为我点个星星
+## 致谢
+*[Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
