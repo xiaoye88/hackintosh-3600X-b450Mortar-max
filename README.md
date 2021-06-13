@@ -33,7 +33,7 @@
 ## 联系方式
 * [Telegram](https://t.me/DialectSudr)
 * [Twitter](https://twitter.com/xiaoxi_ye)
-* [QQ](http://wpa.qq.com/msgrd?v=3&uin=1208194001&site=qq&menu=yes)
+* [QQ](http://wpa.qq.com/msgrd?v=3&uin=465413213&site=qq&menu=yes)
 ## 致谢
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
 * [黑果小兵的部落阁](https://blog.daliansky.net)
