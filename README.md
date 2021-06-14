@@ -32,7 +32,7 @@
 ## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/c02631edb48326482b64d6cd56c153b5f7527220/bigsur.png)
 ## 联系方式
 * [![Telegram](https://img.shields.io/badge/Telegram-@dialectsudr-blue.svg?style=social)](https://t.me/DialectSudr)
-* ![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
+* ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
 * [![QQ](https://img.shields.io/badge/QQ-@Dialectsuds-blue.svg?style=social)](http://wpa.qq.com/msgrd?v=3&uin=1208194001&site=qq&menu=yes)
 ## 致谢
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
