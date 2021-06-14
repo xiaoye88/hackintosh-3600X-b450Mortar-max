@@ -1,5 +1,5 @@
 # <p align="center">Hackintosh-3600X+b450Mortar-max</p> 
-# <div align=center>![Github starts](https://img.shields.io/github/stars/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![Github Fork](https://img.shields.io/github/forks/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![download](https://img.shields.io/github/downloads/xiaoye88/hackintosh-3600X-b450Mortar-max/total?style=social)
+# <div align=center>![Github starts](https://img.shields.io/github/stars/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![Github Fork](https://img.shields.io/github/forks/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![download](https://img.shields.io/github/downloads/xiaoye88/hackintosh-3600X-b450Mortar-max/total?style=social)![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
 ## 自己弄了黑苹果的EFI,希望能帮到想要组黑苹果的人.EFI基于OC_Gen_X定制,添加了inter无线网卡的驱动,OC图形化引导,**其他功能的请自行参考进行修改。**  
 ### 修改完后请前往[OpenCore config.plist Sanity Checker](https://opencore.slowgeek.com)查看config文件是否配置正确。理论上支持同主板锐龙一二三代CPU,请自行尝试，尝试前请自行备份EFI。
 ### 显卡免驱，但硬件加速没法使用，正在修改中  
@@ -32,7 +32,6 @@
 ## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/c02631edb48326482b64d6cd56c153b5f7527220/bigsur.png)
 ## 联系方式
 * [Telegram](https://t.me/DialectSudr)
-* ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
 * [QQ](http://wpa.qq.com/msgrd?v=3&uin=465413213&site=qq&menu=yes)
 ## 致谢
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
