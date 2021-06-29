@@ -38,3 +38,4 @@
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
 * [黑果小兵的部落阁](https://blog.daliansky.net)
 * [OS_Gen-X](https://github.com/Pavo-IM/OC-Gen-X)
+1
