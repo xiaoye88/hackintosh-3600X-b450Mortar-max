@@ -34,7 +34,7 @@
 * [![Telegram](https://img.shields.io/badge/Telegram-@Dialectsuds-blue.svg?style=social)](https://t.me/DialectSudr)
 * [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
 * [![QQ](https://img.shields.io/badge/QQ-@Dialectsuds-blue.svg?style=social)](http://wpa.qq.com/msgrd?v=3&uin=1208194001&site=qq&menu=yes)
-## 致谢
+##致谢
 * [Dortania](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#starting-point)
 * [黑果小兵的部落阁](https://blog.daliansky.net)
 * [OS_Gen-X](https://github.com/Pavo-IM/OC-Gen-X)
