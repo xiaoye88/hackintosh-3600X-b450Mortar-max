@@ -29,7 +29,7 @@
 * 关闭bios里面的串行端口即可支持睡眠唤醒
 ## 注意
 **登陆Apple ID前请先使用Hackintool等工具重新生成序列号等信息，避免与他人重复**
-## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/c02631edb48326482b64d6cd56c153b5f7527220/bigsur.png)
+## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/5f59e52b86b4809b25c5f0adf7bf3bb1279181e7/bigsur.png)
 ## 联系方式
 * [![Telegram](https://img.shields.io/badge/Telegram-@Dialectsuds-blue.svg?style=social)](https://t.me/DialectSudr)
 * [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
