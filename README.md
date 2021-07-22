@@ -4,7 +4,7 @@
 ### 修改完后请前往[OpenCore config.plist Sanity Checker](https://opencore.slowgeek.com)查看config文件是否配置正确。理论上支持同主板锐龙一二三代CPU和大部分免驱显卡免驱，请自行尝试，尝试前请自行备份EFI。
 ### 显卡免驱，但硬件加速没法使用，正在修改中  
 ---
-### Mac版本：bigsur 11.4(20F71)
+### Mac版本：bigsur 11.5
 ### opencore版本：0.7.1
 ---  
 # 如果可以请为我点个星星
