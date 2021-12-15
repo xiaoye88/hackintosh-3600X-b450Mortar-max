@@ -5,8 +5,8 @@
 ### 启用了英特尔蓝牙无线网卡驱动，不需要的请自己关闭。
 ### 显卡免驱，但硬件加速没法使用，正在修改中  
 ---
-### Mac版本：bigsur 11.5.2
-### OpenCore版本：0.7.5
+### Mac版本：bigsur 11.6.2
+### OpenCore版本：0.7.6
 ---  
 # 如果可以请为我点个星星
 ## 配置清单
@@ -32,7 +32,7 @@
 * 关闭bios里面的串行端口即可支持睡眠唤醒
 ## 注意
 **登陆Apple ID前请先使用Hackintool等工具重新生成序列号等信息，避免与他人重复**
-## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/5f59e52b86b4809b25c5f0adf7bf3bb1279181e7/bigsur.png)
+## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/main/bigsur.png)
 ## 联系方式
 * [![Telegram](https://img.shields.io/badge/Telegram-@Dialectsuds-blue.svg?style=social)](https://t.me/DialectSudr)
 * [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
