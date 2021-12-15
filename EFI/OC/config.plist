@@ -268,24 +268,6 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>SMCAMDProcessor.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCAMDProcessor</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1782,9 +1764,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VVHYHHX87</string>
+			<string>C02TLLYUHX87</string>
 			<key>SystemUUID</key>
-			<string>298D7408-48A4-4049-87C0-F3D931C8A8F1</string>
+			<string>00582447-028D-46B2-B8F1-8688DEA7D0C6</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1793,11 +1775,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02751306J9JG36A8</string>
+			<string>C027161004NJG36UE</string>
 			<key>ProcessorType</key>
 			<integer>1541</integer>
 			<key>ROM</key>
-			<data>bDA2hQge</data>
+			<data>EYTZhQge</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1805,9 +1787,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VVHYHHX87</string>
+			<string>C02TLLYUHX87</string>
 			<key>SystemUUID</key>
-			<string>298D7408-48A4-4049-87C0-F3D931C8A8F1</string>
+			<string>00582447-028D-46B2-B8F1-8688DEA7D0C6</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
@@ -1826,7 +1808,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-7BA5B2D9E42DDD94</string>
 			<key>BoardSerialNumber</key>
-			<string>C02751306J9JG36A8</string>
+			<string>C027161004NJG36UE</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1836,7 +1818,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02VVHYHHX87</string>
+			<string>C02TLLYUHX87</string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
@@ -1848,7 +1830,7 @@
 			<key>PlatformFeature</key>
 			<integer>32</integer>
 			<key>ProcessorType</key>
-			<integer>3841</integer>
+			<integer>1541</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
@@ -1860,9 +1842,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VVHYHHX87</string>
+			<string>C02TLLYUHX87</string>
 			<key>SystemUUID</key>
-			<string>298D7408-48A4-4049-87C0-F3D931C8A8F1</string>
+			<string>00582447-028D-46B2-B8F1-8688DEA7D0C6</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
@@ -1924,7 +1906,7 @@
 			<key>MinimumVolume</key>
 			<integer>20</integer>
 			<key>PlayChime</key>
-			<string>Auto</string>
+			<string>Disabled</string>
 			<key>ResetTrafficClass</key>
 			<false/>
 			<key>SetupDelay</key>
@@ -2002,6 +1984,8 @@
 			<false/>
 			<key>ProvideConsoleGop</key>
 			<true/>
+			<key>ReconnectGraphicsOnConnect</key>
+			<false/>
 			<key>ReconnectOnResChange</key>
 			<false/>
 			<key>ReplaceTabWithSpace</key>
@@ -2014,6 +1998,8 @@
 			<string>BuiltinGraphics</string>
 			<key>UgaPassThrough</key>
 			<false/>
+			<key>UIScale</key>
+			<integer>-1</integer>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
@@ -2062,6 +2048,8 @@
 			<false/>
 			<key>EnableVectorAcceleration</key>
 			<true/>
+			<key>EnableVmx</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>ForceOcWriteFlash</key>
