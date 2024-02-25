@@ -1,12 +1,11 @@
 # <p align="center">Hackintosh-3600X+b450Mortar-max</p> 
 # <div align=center>![Github starts](https://img.shields.io/github/stars/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![Github Fork](https://img.shields.io/github/forks/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![watch](https://img.shields.io/github/watchers/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![download](https://img.shields.io/github/downloads/xiaoye88/hackintosh-3600X-b450Mortar-max/total?style=social)
-## &nbsp;&nbsp;&nbsp;&nbsp;自己制作的黑苹果的EFI,希望能帮到想要组黑苹果的人.EFI基于OpenCore自行修改,添加了inter无线网卡及蓝牙的驱动、OC图形化引导,**其他功能的请自行参考进行修改。**  
-### &nbsp;&nbsp;&nbsp;&nbsp;修改完后请前往[OpenCore config.plist Sanity Checker](https://opencore.slowgeek.com)查看config文件是否配置正确。理论上支持同主板锐龙一二三代CPU和大部分免驱显卡免驱，请自行尝试，尝试前请自行备份EFI。
-### 启用了英特尔蓝牙无线网卡驱动，不需要的请自己关闭。
-### 显卡免驱，但硬件加速没法使用，正在修改中  
+## &nbsp;&nbsp;&nbsp;&nbsp;更新了最新驱动，最新支持到Sonoma,英特尔无线网卡和蓝牙驱动正常，**其他功能的请自行参考进行修改。**  
+### &nbsp;&nbsp;&nbsp;&nbsp;理论上支持同主板锐龙一二三代CPU,显卡驱动采用最新[NootRX](https://github.com/ChefKissInc/NootRX)，支持RDNA2系列不支持免驱的卡，如要使用免驱卡请更换[NootRX](https://github.com/ChefKissInc/NootRX)为[WhateverGreen](https://github.com/acidanthera/WhateverGreen),其余有需要修改的地方请自行尝试，尝试前请备份好EFI。
+### 因为采用新显卡驱动，目前所有RDNA2系列显卡均支持硬解，请自行查看。
 ---
-### Mac版本：bigsur 11.6.2
-### OpenCore版本：0.7.7
+### Mac版本：Sonoma 14.3.1
+### OpenCore版本：0.9.8
 ---  
 # 如果可以请为我点个星星
 ## 配置清单
@@ -14,8 +13,8 @@
 ------------ | -------------
 **主板** | B450Mortar Max
 **cpu** | Ryzen5 3600X
-**内存** | DDR4 8G 3200*2
-**显卡** | Nvidia GT 710
+**内存** | DDR4 8G 3200*4
+**显卡** | AMD Radeon™ RX 6700 XT
 **有线网卡** | RTL8111
 **无线网卡** | Ax200NGW
 ## 功能
@@ -26,10 +25,12 @@
 * 无线网卡驱动成功，蓝牙正常，隔空投送和随航无法使用
 * 采用AMDRyzenCPUPowerManagement，支持变频和电源功率查看
 ## bios设置
-* 高级 -- windows操作系统的配置 -- CSM 改为 UEFI
-* 高级 -- windows操作系统的配置 -- 安全引导 -- 禁止安全启动（默认禁止）
-* 高级 -- USB设置 -- XHCI Hand-off -- 开启（默认开启）
-* 关闭bios里面的串行端口即可支持睡眠唤醒
+* windows操作系统的配置 -- CSM 改为 UEFI
+* windows操作系统的配置 -- 安全引导 -- 禁止安全启动（默认禁止）
+* USB设置 -- XHCI Hand-off -- 开启（默认开启）
+* USB设置 -- Above 4G Decoding -- 开启
+* 串行/COM 端口/并口 -- 关闭
+* CPU设置 -- IOMMU -- 关闭
 ## 注意
 **登陆Apple ID前请先使用Hackintool等工具重新生成序列号等信息，避免与他人重复**
 ## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/main/bigsur.png)
