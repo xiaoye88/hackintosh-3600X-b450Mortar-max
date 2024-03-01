@@ -33,7 +33,7 @@
 * CPU设置 -- IOMMU -- 关闭
 ## 注意
 **登陆Apple ID前请先使用Hackintool等工具重新生成序列号等信息，避免与他人重复**
-## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/main/Sonoma.png)
+## 效果图![效果](https://github.com/xiaoye88/hackintosh-3600X-b450Mortar-max/blob/fea3a27d5e799c8519b7c516d3c67891d24dbdd9/Sonoma.jpg)
 ## 联系方式
 * [![Telegram](https://img.shields.io/badge/Telegram-@Dialectsuds-blue.svg?style=social)](https://t.me/DialectSudr)
 * [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fxiaoxi_ye)
