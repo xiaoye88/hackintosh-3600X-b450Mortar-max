@@ -1,4 +1,4 @@
-# <p align="center">Hackintosh-3600X+b450Mortar-max</p> 
+# <p align="center">Hackintosh-5600X+b450Mortar-max</p> 
 # <div align=center>![Github starts](https://img.shields.io/github/stars/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![Github Fork](https://img.shields.io/github/forks/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![watch](https://img.shields.io/github/watchers/xiaoye88/hackintosh-3600X-b450Mortar-max?style=social)![download](https://img.shields.io/github/downloads/xiaoye88/hackintosh-3600X-b450Mortar-max/total?style=social)
 ## &nbsp;&nbsp;&nbsp;&nbsp;更新了最新驱动，最新支持到Sonoma,英特尔无线网卡和蓝牙驱动正常，**其他功能的请自行参考进行修改。**  
 ### &nbsp;&nbsp;&nbsp;&nbsp;理论上支持同主板锐龙一二三代CPU,显卡驱动采用最新[NootRX](https://github.com/ChefKissInc/NootRX)，支持RDNA2系列不支持免驱的卡，如要使用免驱卡请更换[NootRX](https://github.com/ChefKissInc/NootRX)为[WhateverGreen](https://github.com/acidanthera/WhateverGreen),其余有需要修改的地方请自行尝试，尝试前请备份好EFI。
