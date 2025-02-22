@@ -13,7 +13,7 @@
 **类型** | 硬件配置
 ------------ | -------------
 **主板** | B450Mortar Max
-**cpu** | Ryzen5 3600X
+**cpu** | Ryzen5 5600X
 **内存** | DDR4 8G 3200*4
 **显卡** | AMD Radeon™ RX 6700 XT
 **有线网卡** | Realtek RTL8111
