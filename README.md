@@ -3,9 +3,10 @@
 ## &nbsp;&nbsp;&nbsp;&nbsp;更新了最新驱动，最新支持到Sonoma,英特尔无线网卡和蓝牙驱动正常，**其他功能的请自行参考进行修改。**  
 ### &nbsp;&nbsp;&nbsp;&nbsp;理论上支持同主板锐龙一二三代CPU,显卡驱动采用最新[NootRX](https://github.com/ChefKissInc/NootRX)，支持RDNA2系列不支持免驱的卡，如要使用免驱卡请更换[NootRX](https://github.com/ChefKissInc/NootRX)为[WhateverGreen](https://github.com/acidanthera/WhateverGreen),其余有需要修改的地方请自行尝试，尝试前请备份好EFI。
 ### 因为采用新显卡驱动，目前所有RDNA2系列显卡均支持硬解，请自行查看。
+### 本版本系统版本是最后一次更新，因Mac OS 15以上系统不支持英特尔无线网卡驱动，因此不再更新系统，除非驱动完善后。
 ---
-### Mac版本：Sonoma 14.3.1
-### OpenCore版本：0.9.9
+### Mac版本：Sonoma 14.7.4
+### OpenCore版本：1.0.3
 ---  
 # 如果可以请为我点个星星
 ## 配置清单
